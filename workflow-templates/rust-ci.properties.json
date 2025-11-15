@@ -1,0 +1,7 @@
+{
+  "name": "Rust CI Workflow",
+  "description": "Comprehensive CI/CD workflow for Rust projects with testing, linting, security audits, and multi-platform builds",
+  "iconName": "rust",
+  "categories": ["Rust", "CI", "Security"],
+  "filePatterns": ["Cargo.toml", "*.rs"]
+}
