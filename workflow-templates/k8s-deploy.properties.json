@@ -1,0 +1,7 @@
+{
+  "name": "Kubernetes Deployment Workflow",
+  "description": "Complete Kubernetes deployment workflow with validation, security scanning, multi-stage deployments, and automated rollouts",
+  "iconName": "kubernetes",
+  "categories": ["Kubernetes", "Deployment", "Security"],
+  "filePatterns": ["k8s/**/*.yaml", "k8s/**/*.yml"]
+}

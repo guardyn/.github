@@ -1,0 +1,7 @@
+{
+  "name": "Security Scanning Workflow",
+  "description": "Comprehensive security scanning workflow with cargo-audit, CodeQL, dependency review, secret scanning, container scanning, and SBOM generation",
+  "iconName": "shield",
+  "categories": ["Security", "Rust", "SAST"],
+  "filePatterns": ["*.rs", "Cargo.toml", "Dockerfile"]
+}

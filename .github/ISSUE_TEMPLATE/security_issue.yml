@@ -1,0 +1,108 @@
+name: 🔒 Security Vulnerability
+description: Report a security vulnerability (use responsibly)
+title: "[Security]: "
+labels: ["security", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ⚠️ IMPORTANT SECURITY NOTICE
+        
+        For **critical security vulnerabilities**, please **DO NOT** use this public form.
+        
+        Instead, report privately to: **security@guardyn.io**
+        
+        See our [Security Policy](https://github.com/guardyn/.github/blob/main/SECURITY.md) for details.
+        
+        Use this form only for:
+        - Security enhancements or hardening suggestions
+        - Non-critical security issues that don't pose immediate risk
+        - Security-related feature requests
+
+  - type: checkboxes
+    id: pre-check
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: This is NOT a critical vulnerability requiring immediate attention
+          required: true
+        - label: I have read the Security Policy
+          required: true
+        - label: I have searched existing issues
+          required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What type of security issue is this?
+      options:
+        - Security enhancement suggestion
+        - Security hardening recommendation
+        - Non-critical security issue
+        - Security-related feature request
+        - Dependency security update needed
+        - Security documentation improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the security concern or enhancement
+      placeholder: Provide details about the security issue or enhancement
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How would you rate this issue?
+      options:
+        - Low (minor security improvement)
+        - Medium (moderate concern)
+        - High (significant concern but not exploitable)
+        - Info (informational/advisory)
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Potential Impact
+      description: What could be affected by this issue?
+      placeholder: Describe potential impact if applicable
+
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Recommendation
+      description: How should this be addressed?
+      placeholder: Suggest improvements or fixes
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Any relevant links or documentation
+      placeholder: |
+        - CVE-XXXX-XXXXX
+        - https://example.com/advisory
+        - Related documentation
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other relevant information
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        **Reminder:** For critical vulnerabilities that could be exploited, please email security@guardyn.io instead of using this form.
