@@ -1,18 +1,15 @@
-## 💖 Support Guardyn Development
+# 🛡️ Guardyn: Privacy-First Secure Communication
 
-Guardyn is built by a solo founder dedicated to making privacy accessible to everyone. Your sponsorship directly funds:
+Open-source, end-to-end encrypted messaging platform for those who value privacy.
 
-- ✅ **Full-time development** of security features
-- ✅ **Professional security audits** (Cure53, Trail of Bits)
-- ✅ **Infrastructure costs** (CI/CD, testing, hosting)
-- ✅ **Community building** (documentation, tutorials, support)
+## 🚀 Features
+- ✅ X3DH + Double Ratchet encryption
+- ✅ OpenMLS group messaging (IETF RFC 9420)
+- ✅ Self-hosted infrastructure
+- ✅ Reproducible builds with Nix
 
-**Current Progress**:
-- Backend MVP complete ✅
-- 8/8 E2E tests passing ✅
-- Mobile client in development 🚧
-- Security audit planned Q2 2026 📋
+## 💖 Support Development
+[Become a Sponsor](https://github.com/sponsors/guardyn) | [Founding Members](https://guardyn.co/founding-members)
 
-[💖 Become a Sponsor](https://github.com/sponsors/guardyn) | [View Our Sponsors](https://guardyn.co/sponsors)
-
----
+## 📦 Repositories
+- [guardyn](https://github.com/guardyn/guardyn) - Main repository
