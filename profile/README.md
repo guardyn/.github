@@ -1,12 +1,18 @@
-## Hi there 👋
+## 💖 Support Guardyn Development
 
-<!--
+Guardyn is built by a solo founder dedicated to making privacy accessible to everyone. Your sponsorship directly funds:
 
-**Here are some ideas to get you started:**
+- ✅ **Full-time development** of security features
+- ✅ **Professional security audits** (Cure53, Trail of Bits)
+- ✅ **Infrastructure costs** (CI/CD, testing, hosting)
+- ✅ **Community building** (documentation, tutorials, support)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Current Progress**:
+- Backend MVP complete ✅
+- 8/8 E2E tests passing ✅
+- Mobile client in development 🚧
+- Security audit planned Q2 2026 📋
+
+[💖 Become a Sponsor](https://github.com/sponsors/guardyn) | [View Our Sponsors](https://guardyn.co/sponsors)
+
+---
