@@ -25,25 +25,9 @@ Guardyn puts privacy first with cryptographically-verified security, reproducibl
 
 ---
 
-## 💖 Support Guardyn Development
+## 💖 Support
 
-Guardyn is built by a **solo founder** with **zero funding**. Your sponsorship directly enables:
-
-- ✅ **Full-time development** instead of splitting time with freelance work
-- ✅ **Professional security audits** from industry leaders like Cure53
-- ✅ **Infrastructure costs** for CI/CD, testing, and hosting
-- ✅ **Community building** through documentation, tutorials, and support
-
-**Every dollar goes directly to making privacy accessible to everyone.**
-
-### 🎯 How to Support
-
-- [💖 GitHub Sponsors](https://github.com/sponsors/guardyn) — Monthly or one-time sponsorships
-- [💼 Open Collective](https://opencollective.com/guardyn) — Transparent finances
-- [☕ Ko-fi](https://ko-fi.com/guardyn) — Quick one-time support
-- [🔐 Cryptocurrency](https://guardyn.co/crypto) — Maximum privacy donations
-
-[**View All Ways to Support →**](https://guardyn.co/sponsor)
+ [Sponsor Page](https://guardyn.co/sponsor) • [GitHub Sponsors](https://github.com/sponsors/guardyn)
 
 ---
 
