@@ -25,12 +25,6 @@ Guardyn puts privacy first with cryptographically-verified security, reproducibl
 
 ---
 
-## 💖 Support
-
- [Sponsor Page](https://guardyn.co/sponsor) • [GitHub Sponsors](https://github.com/sponsors/guardyn)
-
----
-
 ## 📦 Repositories
 
 - [**guardyn/guardyn**](https://github.com/guardyn/guardyn) — Main repository (Backend, Infrastructure, Docs)
@@ -45,6 +39,18 @@ Guardyn puts privacy first with cryptographically-verified security, reproducibl
 - 💬 [Discussions](https://github.com/guardyn/guardyn/discussions)
 - 🐛 [Issue Tracker](https://github.com/guardyn/guardyn/issues)
 - 🐦 [Twitter/X](https://x.com/guardyn_io)
+
+---
+
+## 🤝 Get Involved
+
+**Contribute code:**
+- [Good first issues](https://github.com/guardyn/guardyn/labels/good%20first%20issue)
+- [Development guide](https://github.com/guardyn/guardyn/blob/main/CONTRIBUTING.md)
+
+**Financial support:**
+- [GitHub Sponsors](https://github.com/sponsors/guardyn) — Help accelerate development
+- [All options](https://guardyn.co/sponsor) — Crypto, Ko-fi, Open Collective
 
 ---
 
